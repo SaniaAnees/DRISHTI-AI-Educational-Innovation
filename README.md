@@ -1,4 +1,4 @@
-This README is designed to look like a Senior Engineer's repository. It’s clean, technical, and emphasizes the "Agency-First" philosophy.
+
 
 Drishti AI: The Agency-First Behavioral Engine
 Drishti AI is a high-agency intervention platform designed to bridge the "Digital Intelligence Divide" for engineering students. It terminates the Certification Trap by reclaiming a student's most valuable asset—time—and converting it into verified industrial competence through a non-negotiable, proof-of-work ecosystem.
